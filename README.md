@@ -122,10 +122,12 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-12-19 101130.png>)
+<img width="1031" height="544" alt="Screenshot 2025-12-24 080354" src="https://github.com/user-attachments/assets/48321c02-7007-4ac7-9670-95cacf411b1f" />
+
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-12-19 161915.png>)
+<img width="1039" height="528" alt="Screenshot 2025-12-24 080506" src="https://github.com/user-attachments/assets/2b9506e0-b1f3-4b7e-bf20-71d9f6d61c78" />
+
 
 
 ## RESULT:
